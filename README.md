@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **Zeref-XXX/Zeref-XXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
