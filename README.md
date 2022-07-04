@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" /> <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+ 
 <!--
 **Zeref-XXX/Zeref-XXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" /> <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
  
-<a href="https://app.daily.dev/Zeref"><img src="https://api.daily.dev/devcards/58b67d0997b64355960d3e5120476bcb.png?r=ad6" width="400" alt="Zeref's Dev Card"/></a>
