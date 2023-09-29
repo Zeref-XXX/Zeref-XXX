@@ -18,8 +18,7 @@
 
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
- 
-![](https://hit.yhype.me/github/profile?user_id=72185317) 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /></p>
  
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)
