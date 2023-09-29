@@ -5,8 +5,8 @@
  <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
    
-  <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
-<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa-hiragana.gif" alt="k" />
+  <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" align ="left"/>
+<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa-hiragana.gif" alt="k" align="right" />
 
 - 🔭 I’m currently working on my ##life
    🌱 I’m currently learning ##senpai
