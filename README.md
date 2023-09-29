@@ -19,7 +19,7 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" />
  
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,5 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeref-xxx&show_icons=true&locale=en" alt="zeref-xxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /></p>
 
