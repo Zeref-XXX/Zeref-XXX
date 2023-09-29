@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX&color=blueviolet)
  <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
-    <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
-<img src="https://cdn.dribbble.com/users/799387/screenshots/3527416/media/8ec085f7e550c3d1a1657dc1e1c7bd5a.png " alt="konnii" style=" height: 500px; width: 557px" />
+   
+<img src="https://cdn.dribbble.com/users/799387/screenshots/3527416/media/8ec085f7e550c3d1a1657dc1e1c7bd5a.png " />
 
-
+ <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
 - 🔭 I’m currently working on my ##life
    🌱 I’m currently learning ##senpai
 - 👯 I’m looking to collaborate on i don't know
