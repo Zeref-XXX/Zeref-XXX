@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX&color=blueviolet)
  <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
- <img src = "https://github.com/Zeref-XXX/Zeref-XXX/blob/main/ko.gif" alt"konni" />
+ <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt"konni" />
 [![An image of @zerefxxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zerefxxx)](https://holopin.io/@zerefxxx)
 
 <!--
