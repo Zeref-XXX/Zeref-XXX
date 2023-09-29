@@ -5,18 +5,18 @@
  <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
     <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
-<ing src="https://cdn.dribbble.com/users/799387/screenshots/3527416/media/8ec085f7e550c3d1a1657dc1e1c7bd5a.png" alt="konnii" />
+<img src="https://cdn.dribbble.com/users/799387/screenshots/3527416/media/8ec085f7e550c3d1a1657dc1e1c7bd5a.png" alt="konnii" />
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on my ##life
+- 🌱 I’m currently learning ##senpai
+- 👯 I’m looking to collaborate on i don't know
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about DON'T
+- 📫 How to reach me: from Heart ♥ 
+- 😄  HOMOSEPIAN
+- ⚡ Fun fact: Gambre Gamre 
+
 
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
