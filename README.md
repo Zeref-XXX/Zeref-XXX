@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img src="https://github.com/Zeref-XXX/Zeref-XXX/blob/main/ko.gif">
+ 
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX&color=blueviolet)
  <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
