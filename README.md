@@ -7,7 +7,7 @@
    
 <img src="https://cdn.dribbble.com/users/799387/screenshots/3527416/media/8ec085f7e550c3d1a1657dc1e1c7bd5a.png " />
 
- <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
+ <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="he" />
 - 🔭 I’m currently working on my ##life
    🌱 I’m currently learning ##senpai
 - 👯 I’m looking to collaborate on i don't know
