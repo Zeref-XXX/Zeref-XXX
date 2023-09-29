@@ -6,7 +6,8 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" />
     <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" />
     
-(https://holopin.me/zerefxxx)](https://holopin.io/@zerefxxx)
+https://holopin.me/zerefxxx
+https://holopin.io/@zerefxxx
 
 <!--
 - 🔭 I’m currently working on ...
