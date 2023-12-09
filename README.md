@@ -8,7 +8,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zerefxxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zerefxxx" /></a></p><br><br>
 <hr/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zeref-xxx" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/zeref-xxx?trk=profile-badge"># Zeref</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zeref-xxx" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/zeref-xxx?trk=profile-badge">Zeref</a></div>
               
 - 🔭 I’m currently working on my ##life
    🌱 I’m currently learning ##senpai
