@@ -15,9 +15,7 @@
 - 💬 Ask me about DON'T
 - 📫 How to reach me: from Heart ♥ 
 - 😄  HOMOSEPIAN
-- ⚡ Fun fact: Gambre Gamre 
-
---->
+- ⚡ Fun fact: Gambre Gamre  -->
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
