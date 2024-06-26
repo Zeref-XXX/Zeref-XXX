@@ -12,12 +12,12 @@
 <hr/>
  -->
 - 🔭 I’m currently working on my ##life
-- 🌱 I’m currently learning ##senpai
-- 👯 I’m looking to collaborate on i don't know
+- 🌱 I’m currently learning ### basics of life
+- 👯 I’m looking to collaborate on future.
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about Nothing
 - 📫 How to reach me: from honest Heart ♥ 
-- 😄  HOMOSEPIAN
+- 😄 HOMOSEPIAN
 - ⚡ Fun fact: Gambre Gamre  senpai
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
