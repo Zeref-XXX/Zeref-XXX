@@ -1,6 +1,6 @@
 ### konnichiwa [こんにちは]👋
 <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=...%E3 %81 %93 %E3  %82 %93 %E3 %81 %AB %E3 %81 %A1 %E3 %81 %AF............&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=200&comment=">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=...%E3%20%81%20%93%20%E3%20%82%20%93%20%E3%20%81%20%AB%20%E3%20%81%20%A1%20%E3%20%81%20%AF%20%20%20.&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=200&comment=">
  
 </a>
 <hr> 
