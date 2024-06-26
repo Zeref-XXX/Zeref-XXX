@@ -19,8 +19,8 @@
  </div>
  
  
-- 🔭 I’m currently working on my ##life
-- 🌱 I’m currently learning ### basics of life
+- 🔭 I’m currently working on myLife
+- 🌱 I’m currently learning  basics of life
 - 👯 I’m looking to collaborate on future.
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about Nothing
