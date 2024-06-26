@@ -15,7 +15,7 @@
   -->
  <div  >
 <img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif ">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="300px">
  </div>
  
  <!--- <h3 align="left">Support:</h3>
