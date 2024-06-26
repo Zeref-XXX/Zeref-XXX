@@ -18,10 +18,7 @@
 <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="300px">
  </div>
  
- <!--- <h3 align="left">Support:</h3>
- - <p><a href="https://www.buymeacoffee.com/zerefxxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zerefxxx" /></a></p><br><br>
-<hr/>
- -->
+ 
 - 🔭 I’m currently working on my ##life
 - 🌱 I’m currently learning ### basics of life
 - 👯 I’m looking to collaborate on future.
@@ -33,9 +30,9 @@
 <hr>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /> -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /> 
  
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)
+[![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">A passionate frontend developer from India</h3>
