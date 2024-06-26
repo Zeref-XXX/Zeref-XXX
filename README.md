@@ -1,4 +1,4 @@
-### konnichiwa 👋
+### konnichiwa [こんにちは]👋
  
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX&color=blueviolet)
  <a href="https://github.com/ossu/computer-science">
