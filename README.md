@@ -8,7 +8,7 @@
    <br><hr>
   <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
   -->
- <div align="center">
+ <div  style="border : 2px dashed purple ">
     <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
 </div>
  
