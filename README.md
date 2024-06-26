@@ -7,11 +7,11 @@
  <a href="https://github.com/ossu/computer-science">
  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
  </a>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" align="left"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" align="left" style="border-bottome:40px solid pink"/>
    <br><hr>
   <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
   -->
- <div  style="border : 2px dashed purple ">
+ <div  >
     <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
 </div>
  
