@@ -14,8 +14,9 @@
   <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
   -->
  <div  >
-<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " height="600px" align="right"  >
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="300px">
+         <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="300px">
+<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " height="600px"   >
+
  </div>
  
  
@@ -34,7 +35,7 @@
  
 [![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<hr>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> </p>
