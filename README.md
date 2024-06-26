@@ -4,6 +4,7 @@
     </a>
 <hr> 
 ![](https://komarev.com/ghpvc/?username=Zeref-XXX&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=zeref-xxx&label=Profile%20views&color=0e75b6&style=flat" alt="zeref-xxx" /> 
  <a href="https://github.com/ossu/computer-science">
  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
  </a>
@@ -37,7 +38,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeref-xxx&label=Profile%20views&color=0e75b6&style=flat" alt="zeref-xxx" /> </p>
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
