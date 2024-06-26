@@ -14,8 +14,8 @@
   <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
   -->
  <div  >
-<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif">
+<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif ">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right">
  </div>
  
  <!--- <h3 align="left">Support:</h3>
