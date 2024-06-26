@@ -6,7 +6,12 @@
  </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" align="left"/>
    <br><hr>
-  <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
+  <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
+  -->
+ <div align="center">
+    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+ 
  <!--- <h3 align="left">Support:</h3>
  - <p><a href="https://www.buymeacoffee.com/zerefxxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zerefxxx" /></a></p><br><br>
 <hr/>
