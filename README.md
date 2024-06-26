@@ -5,7 +5,7 @@
  <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
  </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/luciferX.png" alt="TryHackMe" align="left"/>
-   <hr>
+   <br><hr>
   <img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
  <!--- <h3 align="left">Support:</h3>
  - <p><a href="https://www.buymeacoffee.com/zerefxxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zerefxxx" /></a></p><br><br>
