@@ -10,14 +10,15 @@
  <!--- <h3 align="left">Support:</h3>
  - <p><a href="https://www.buymeacoffee.com/zerefxxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/zerefxxx" /></a></p><br><br>
 <hr/>
- <!--- - 🔭 I’m currently working on my ##life
-   🌱 I’m currently learning ##senpai
+ -->
+- 🔭 I’m currently working on my ##life
+- 🌱 I’m currently learning ##senpai
 - 👯 I’m looking to collaborate on i don't know
 - 🤔 I’m looking for help with everything
-- 💬 Ask me about DON'T
-- 📫 How to reach me: from Heart ♥ 
+- 💬 Ask me about Nothing
+- 📫 How to reach me: from honest Heart ♥ 
 - 😄  HOMOSEPIAN
-- ⚡ Fun fact: Gambre Gamre  -->
+- ⚡ Fun fact: Gambre Gamre  senpai
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
