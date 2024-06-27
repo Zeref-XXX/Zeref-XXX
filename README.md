@@ -15,8 +15,8 @@
   -->
  <div  >
         
-<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " width="700px"  align="left"  >
- <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="200px">
+<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " width="700px"  align="right"  >
+ <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="left" width="200px">
  </div>
  <hr>
  
