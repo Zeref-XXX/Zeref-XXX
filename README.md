@@ -35,8 +35,8 @@
  -->
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /> 
- 
-[![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)]
+ <streak align="right">
+[![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)] <streak />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <hr>
 <h3 align="center">A passionate frontend developer from India</h3>
