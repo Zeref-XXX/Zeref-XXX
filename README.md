@@ -14,8 +14,8 @@
   <!--<img src="https://www.tierragamer.com/wp-content/uploads/2020/01/konnichiwa.gif" alt="TryHackMe" float ="left"/>
   -->
  <div  >
-         <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif"  width="300px">
-<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " width="600px"   >
+         <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" align="right" width="300px">
+<img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " width="600px"  align="left"  >
 
  </div>
  
@@ -29,7 +29,9 @@
 - 😄 HOMOSEPIAN
 - ⚡ Fun fact: Gambre Gamre  senpai
 <hr>
+<!--
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeref-XXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ -->
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeref-xxx&" alt="zeref-xxx" /> 
  
