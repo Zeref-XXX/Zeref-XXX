@@ -18,6 +18,7 @@
 <img src="https://media1.tenor.com/m/UqyfdTI9qTEAAAAC/zeref-zeref-dragneel.gif " width="600px"  align="left"  >
 
  </div>
+ <hr>
  
  
 - 🔭 I’m currently working on myLife
